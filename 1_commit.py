@@ -1,1 +1,1 @@
-print
+print('FIRST_COMMIT')
